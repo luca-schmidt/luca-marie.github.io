@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD Candidate in Computer Science, University of Tübingen
+* M.Sc. Quantitative Data Science, University of Tübingen
+* B.Sc. Economics, University of Mannheim
 
 Work experience
 ======
