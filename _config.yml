@@ -22,7 +22,7 @@ repository               : "luca-schmidt/luca-schmidt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "luca.jpg"
   name             : "Luca Schmidt"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Machine Learning for Climate Modeling."
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
