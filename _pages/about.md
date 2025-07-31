@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Luca Schmidt"
 author_profile: true
 redirect_from: 
   - /about/

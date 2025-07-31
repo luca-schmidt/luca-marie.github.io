@@ -9,19 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="margin-top: 1em;">
 
-**PhD Candidate in Computer Science**  
-<small>University of Tübingen — *since 2023*</small>
+- PhD Candidate in Computer Science
+--University of Tübingen (since 2023)
 
-<br/>
 
-**M.Sc. Quantitative Data Science**  
-<small>University of Tübingen</small>
+- M.Sc. Quantitative Data Science
+--University of Tübingen
 
-<br/>
 
-**B.Sc. Economics**  
-<small>University of Mannheim & Université Catholique de Louvain</small>
-
-</div>
+- B.Sc. Economics
+--University of Mannheim & Université Catholique de Louvain
