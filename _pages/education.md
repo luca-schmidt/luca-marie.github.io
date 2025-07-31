@@ -11,12 +11,12 @@ redirect_from:
 
 
 - PhD Candidate in Computer Science
---University of Tübingen (since 2023)
+  University of Tübingen (since 2023)
 
 
 - M.Sc. Quantitative Data Science
---University of Tübingen
+  University of Tübingen
 
 
 - B.Sc. Economics
---University of Mannheim & Université Catholique de Louvain
+  University of Mannheim
