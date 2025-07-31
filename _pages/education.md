@@ -9,14 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+**Visiting PhD Researcher** (since May 2025) \\
+  Mila – Quebec Artificial Intelligence Institute
 
-*PhD Candidate in Computer Science**
-  University of Tübingen (since 2023)
+
+**PhD Candidate in Computer Science** (since 2023) \\
+  University of Tübingen & IMPRS-IS
 
 
 **M.Sc. Quantitative Data Science** \\
   University of Tübingen
 
 
-B.Sc. Economics \\
-University of Mannheim
+**B.Sc. Economics** \\
+  University of Mannheim & UCLouvain
