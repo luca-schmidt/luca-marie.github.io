@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ======
-* PhD Candidate in Computer Science
-  <sub>University of Tübingen (since 2023)</sub>
-* M.Sc. Quantitative Data Science
-  <sub>University of Tübingen</sub>
-* B.Sc. Economics
-  <sub>University of Mannheim</sub>
+PhD Candidate in Computer Science
+  \tiny University of Tübingen (since 2023)
+M.Sc. Quantitative Data Science
+  \tiny University of Tübingen
+B.Sc. Economics
+  \tiny University of Mannheim
  
-
+======
